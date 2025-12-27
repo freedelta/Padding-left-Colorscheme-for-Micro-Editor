@@ -16,3 +16,4 @@ Click Ctrl + E before each line:
 * `set softwrap true`
 * `set wordwrap true`
 * `set tabstospaces true`
+* `set statusline false`
