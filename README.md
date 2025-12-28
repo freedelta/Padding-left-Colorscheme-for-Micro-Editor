@@ -1,7 +1,7 @@
 ## Simulate padding left for Micro Editor from existing Zenburn color scheme.
 
-To have a padding left space in the Micro Editor the line number left column has the same background color than the main area
-and the line number itself has also the same color as the background
+To have a padding left space in the Micro Editor this colorscheme uses the line number left column with the same background color than the main area
+and the line number itself also with the same color as the background. This helps to create a distraction free environement. You would not see line numbers though, but for distraction free purposes who cares?
 
 ## Install and use
 
@@ -9,7 +9,7 @@ and the line number itself has also the same color as the background
 * Copy the file `freedelta.micro` inside
 * Open Micro Editor and click Ctrl + E then type `set colorscheme freedelta`
 
-## Other writing free settings
+## Other writing distraction free settings
 
 Click Ctrl + E before each line:
 
@@ -17,3 +17,5 @@ Click Ctrl + E before each line:
 * `set wordwrap true`
 * `set tabstospaces true`
 * `set statusline false`
+
+![Screenshot](./micro-editor-left-padding-theme-screenshot.jpg)
